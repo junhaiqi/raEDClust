@@ -20,7 +20,7 @@ Key Features:
 * Uses rotation-aware edit distance to handle circular permutations
 * Improves similarity estimation for tandem repeat structures
 * Supports multi-threading for scalable analysis
-* Direct integration with r2rtr output format
+* Direct integration with [r2rtr](https://github.com/junhaiqi/r2rtr.git) output format
 ## Table of contents
 
   * [Requirements](#requirements)
@@ -104,3 +104,4 @@ MIT License.
 
 ## Cite
 None
+
