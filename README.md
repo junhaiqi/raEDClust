@@ -95,7 +95,7 @@ r2rtr format: Inferred tandem repeat unit length derived from read-to-read overl
 * 2119
 r2rtr format: Final consensus unit length after sequence refinement.
 
-* 64    
+* 64
 r2rtr format: Number of repeat fragments supporting the consensus unit.
 
 
@@ -104,4 +104,5 @@ MIT License.
 
 ## Cite
 None
+
 
